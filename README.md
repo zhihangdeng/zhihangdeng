@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Zhihang and I'm a Ph.D. student at the Chinese University of Hong Kong, Shenzhen</h2>
 
 ###
 
