@@ -1,5 +1,5 @@
 ## About me ✨
-Hi 👋! my name is zhihang, and I'm currently a Ph.D student at the Chinese Univeristy of Hong Kong, Shenzhen.
+Hi 👋! My name is zhihang, and I'm currently a Ph.D student at the Chinese Univeristy of Hong Kong, Shenzhen.
 My current research interests include information theory and coding theory.
 
 <div align="center">
